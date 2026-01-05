@@ -76,19 +76,23 @@ Business benchmarking
 📊 Power BI Dashboards
 📸 Dashboard 1 – Overall Complaint Summary
 
-![Overall Complaint Summary](Screenshots/Dashboard_Overview.png)
+<img width="1334" height="750" alt="Dashboard_Overview" src="https://github.com/user-attachments/assets/a941917b-a293-43a8-9961-f09f28fedc49" />
+
 
 📸 Dashboard 2 – Complaint Trends & Distribution
 
-![Complaint Trends & Distribution](Screenshots/Complaint_Diagnosis.png)
+<img width="1326" height="748" alt="Complaint_Diagnosis" src="https://github.com/user-attachments/assets/e4321369-823c-43db-a58c-222016aece46" />
+
 
 📸 Dashboard 3 – Premium vs Complaints Analysis
 
-![Premium vs Complaints Analysis](Screenshots/Trend_premium.png)
+<img width="1328" height="755" alt="Trend_premium" src="https://github.com/user-attachments/assets/0caa9b8b-9f69-4f6f-818c-7d32b93409b0" />
+
 
 📸 Dashboard 4 – Company Comparison & Rankings
 
-![Overall Complaint Summary](Screenshots/Company_comparison.png)
+<img width="1323" height="754" alt="Company_comparison" src="https://github.com/user-attachments/assets/bddda275-3e4d-41ce-a450-f6fd1b2f7afd" />
+
 
 🔍 SQL Analysis Summary
 
